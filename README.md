@@ -1,2 +1,4 @@
 # Hangman-Game
-Javascript HW Assignment
+The game hangman. Built with Javascript.
+
+
